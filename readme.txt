@@ -22,6 +22,7 @@ If you have suggestions or bugfixes for the plugin, please report them on [Githu
 Private Replies for bbPress as been translated into the following languages:
 
 1. English
+2. French
 
 Would you like to help translate the plugin into more langauges? [Contact Pippin](http://pippinsplugins.com/contact).
 
@@ -35,6 +36,8 @@ Would you like to help translate the plugin into more langauges? [Contact Pippin
 
 1. Screenshot 1
 2. Screenshot 2
+3. Screenshot 3
+4. Screenshot 4
 
 
 == Changelog ==
