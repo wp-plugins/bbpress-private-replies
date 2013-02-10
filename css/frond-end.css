@@ -1,3 +1,7 @@
-.topic .bbp-private-reply {
-	background: #F0F8FF !important;
+/*
+ * 	BBpress Private Replies
+ */
+
+.bbp-private-reply {
+	background: #78C0EC !important;
 }
